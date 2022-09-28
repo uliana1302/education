@@ -1,0 +1,12 @@
+body {
+  line-height: 3em;
+}
+h1 {
+   text-align: center;
+   font-size: 1.5em;
+   text-decoration: underline dotted red;
+   font-style: italic;
+}
+span {
+  color: red;
+}
